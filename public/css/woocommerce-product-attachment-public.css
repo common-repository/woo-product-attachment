@@ -1,0 +1,73 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+a.wcpoa_attachmentbtn{color:#a46497;float:right;background:transparent;margin:0;cursor:pointer;text-decoration:none;padding:5px 12px;border:0;display:inline-block;-webkit-transition:all 0.5s ease-in-out;-o-transition:all 0.5s ease-in-out;transition:all 0.5s ease-in-out;border-bottom:none;}
+a.wcpoa_attachmentbtn span{display:block;}
+.wcpoa_hide_me{display:none!important;}
+.wcpoa_attachment_name{margin-top:0px!important;max-width:80.5%;display:inline-block;}
+a.wcpoa_attachmentbtn_order{padding:10px;background:#0e7aad;color:#fff;}
+#tab-wcpoa_product_tab a.wcpoa_attachment_expire{padding:10px;background:#ccc;color:#ffffff;cursor:no-drop;-webkit-box-shadow:none;box-shadow:none;}
+.wcpoa_cs_shortcode a.wcpoa_attachmentbtn{float:right;margin:0;cursor:pointer;text-decoration:none;padding:10px 10px 10px 12px;border:0;display:inline-block;-webkit-transition:all 0.5s ease-in-out;-o-transition:all 0.5s ease-in-out;transition:all 0.5s ease-in-out;color:#515151;background-color:#ebe9eb;border:0;font-size:16px;text-decoration:none!important;text-align:center;margin-bottom:5px;width:100%;max-width:100px;}
+.wcpoa_order_attachments{padding:10px 5px;margin:10px 0;}
+button#wcpoa-ua-btn{margin-top:15px;}
+.wcpoa_order_attachments_btn input[type="button"]{background-color:#eeeeee;border-color:#eeeeee;color:#333333;cursor:pointer;padding:0.6180469716em 1.41575em;text-shadow:none;font-size:100%;border-style:solid;}
+.wcpoa_order_attachments .wcpoa_order_attachments_items{text-align:right;margin-top:18px;}
+.wcpoa_order_attachments .wcpoa_order_attachments_items .wcpoa-ofai{padding:10px 5px 10px 36px;margin:5px 0;position:relative;background:#eee;text-align:left;}
+a#wcpoa-clear-aitem{color:#ccc;}
+.wcpoa_order_attachments .wcpoa_order_attachments_items .wcpoa-ofai.wcpoa-attach-img:before{content:'';background:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAABAAgMAAAAhThzVAAAADFBMVEX///+IiIjDw8PExMTmLg9mAAAAAXRSTlMAQObYZgAAAEpJREFUKFPtxzENwDAMRcGvbAZiSJYXgzCZ8DG0Lm31CGTLbad4jSR9aaaYZPYg3ogVshLRHsQbsUJWItqDeCNWyMo/ERE3N4fzAErf85yPpT2uAAAAAElFTkSuQmCC");width:23px;height:31px;top:7px;left:5px;position:absolute;background-size:cover;}
+.wcpoa-ofai.wcpoa-attach-file:before{content:'';background-image:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAABAAgMAAAAhThzVAAAADFBMVEX///+IiIjDw8PExMTmLg9mAAAAAXRSTlMAQObYZgAAAGpJREFUKJHN0rkNACEMRNEvMgqhJMsJRdAM/bi0DdhjQkO0zl7gGckydk8APBiKrnAAAwCbIWhDULuguAQwQ9CGoHZB8S8AZgjaENQuKP4GmJmlwTt5nPaYpiWwVvdw3PPju7GeI42Tnn1cuaOhRIkVzr8AAAAASUVORK5CYII=");width:23px;height:31px;top:7px;left:5px;position:absolute;background-size:cover;}
+.wcpoa_order_attachment_expire{color:#baa6b6;float:right;background:#ebe9eb;margin:0;cursor:pointer;text-decoration:none;padding:10px 10px 10px 12px;border:0;display:inline-block;-webkit-transition:all 0.5s ease-in-out;-o-transition:all 0.5s ease-in-out;transition:all 0.5s ease-in-out;border-bottom:none!important;cursor:no-drop;max-width:-webkit-min-content;max-width:-moz-min-content;max-width:min-content;width:100%;text-align:center;min-width:100px;}
+.wcpoa_expired_title_with_link{color:#baa6b6;cursor:no-drop;}
+.woocommerce-order section.woocommerce-attachment-details{margin-bottom:23px;}
+p.wcpoa_attachment_desc{margin-top:0;}
+p.order_att_expire_date{margin:11px 0 0 0;}
+.woocommerce-Tabs-panel--wcpoa_product_tab .wcpoa_attachmentbtn,.woocommerce-attachment-details .wcpoa_attachmentbtn{float:right;margin:0;cursor:pointer;text-decoration:none;padding:10px 10px 10px 12px;border:0;display:inline-block;-webkit-transition:all 0.5s ease-in-out;-o-transition:all 0.5s ease-in-out;transition:all 0.5s ease-in-out;color:#515151;background-color:#ebe9eb;border:0;font-size:16px;text-decoration:none!important;text-align:center;margin-bottom:5px;width:100%;max-width:-webkit-min-content;max-width:-moz-min-content;max-width:min-content;min-width:100px;}
+.woocommerce-Tabs-panel--wcpoa_product_tab .wcpoa_attachmentbtn img{width:auto;max-width:64px;display:inline-block;}
+.woocommerce-Tabs-panel--wcpoa_product_tab .wcpoa_attachment_name{display:inline-block;margin-top:0;max-width:80.5%;}
+.wcpoa_attachmentbtn img, .wcpoa_order_attachment_expire img{width:auto;max-width:64px;display:inline-block;}
+.wcpoa_attachment .order_att_expire_date{margin:0;font-size:14px;color:gray;}
+.wcpoa_attachment .order_att_expire_date span{color:red;margin-right:4px;}
+.wcpoa_order_attachment{border-top:0.5px solid #f3f3f3;display:inline-block;width:100%;padding:25px 0;}
+.wcpoa_order_attachment .wcpoa_attachmentbtn{color:#515151;background-color:#ebe9eb;border:0;font-size:16px;}
+.wcpoa_order_attachment .wcpoa_attachmentbtn:hover,.woocommerce-Tabs-panel--wcpoa_product_tab .wcpoa_attachmentbtn:hover,.woocommerce-attachment-details .wcpoa_attachmentbtn:hover{background-color:#dad8da;text-decoration:none;background-image:none;color:#515151;}
+.wcpoa_attachment{clear:both;margin-bottom:14px;display:inline-block;width:100%;}
+.woocommerce-Tabs-panel--wcpoa_product_tab.custom_attachment_block{width:100%;display:inline-block;}
+
+/** Youtube video section style */
+.wcpoa_attachmentbtn.youtube_container{width:auto;float:right;padding:5px;}
+
+/* Attchament search CSS */
+#attachment-search-main .attach-search-box input#search-attachment-input{border:1px solid #ccc;border-radius:30px;padding:15px 50px 15px 20px;font-size:20px;font-weight:900;width:70%;}
+#attachment-search-main .attach-search-box button{padding:17px 50px;font-size:20px;border-radius:30px;margin-left:-50px;border:none;background:#282f49;color:#fff;cursor:pointer;display:-webkit-inline-box;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;}
+#attach-results-area .attachment-list .attachment-item .atta-left img{display:inline-block;width:100%;-o-object-fit:cover;object-fit:cover;height:150px;}
+#attach-results-area .attachment-list .attachment-item .atta-left{width:50%;display:inline-block;padding:15px 15px;-webkit-box-sizing:border-box;box-sizing:border-box;}
+#attach-results-area .attachment-list .attachment-item .atta-right{display:inline-block;vertical-align:top;padding:15px;width:50%;-webkit-box-sizing:border-box;box-sizing:border-box;}
+div#attach-results-area{margin:20px 0;}
+#attach-results-area .atta-right p{text-transform:capitalize;font-size:15px;color:#282f49;display:block;}
+#attach-results-area .attachment-list .attachment-item{border-bottom:1px solid #cccccc3d;}
+#attach-results-area .attachment-list .attachment-item i.attch-icon{display:inline-block;background-size:cover;width:23px;height:31px;background-image:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAABAAgMAAAAhThzVAAAADFBMVEX///+IiIjDw8PExMTmLg9mAAAAAXRSTlMAQObYZgAAAGpJREFUKJHN0rkNACEMRNEvMgqhJMsJRdAM/bi0DdhjQkO0zl7gGckydk8APBiKrnAAAwCbIWhDULuguAQwQ9CGoHZB8S8AZgjaENQuKP4GmJmlwTt5nPaYpiWwVvdw3PPju7GeI42Tnn1cuaOhRIkVzr8AAAAASUVORK5CYII=");margin-right:10px;vertical-align:middle;}
+#attachment-search-main .attach-search-box button.att-disabled{cursor:not-allowed;background-color:#4c5266;}
+#attachment-search-main .attach-no-results p{padding:10px 10px;color:#757575;}
+#attachment-search-main span.atta-right-title{margin-bottom:17px;display:block;font-size:20px;}
+#attachment-search-main .atta-right img{width:30px;margin-right:10px;vertical-align:middle;float:right;}
+#attach-results-area .attachment-list .attachment-item .atta-right a.wcpoa_attachmentbtn_srch{display:inline-block;width:80%;}
+#attach-results-area .attachment-list .attachment-item .atta-right .wcpoa_attachment{display:inline-block;width:100%;}
+#attachment-search-main img#loader{background-size:100%;margin-left:10px;border:4px solid #f2f2f2;border-left:4px solid #294496;-webkit-animation:attachment_spinner 1.1s infinite linear;animation:attachment_spinner 1.1s infinite linear;border-radius:50%;width:20px;height:20px;float:right;}
+@-webkit-keyframes attachment_spinner{
+    0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}
+    100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}
+}
+@keyframes attachment_spinner{
+    0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}
+    100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}
+}
+@media screen and (max-device-width:769px){
+    #attachment-search-main .attach-search-box input#search-attachment-input{width:50%;}
+    #attach-results-area .attachment-list .attachment-item .atta-left{width:100%;}
+    #attach-results-area .attachment-list .attachment-item .atta-right{width:100%;}
+}
+@media screen and (max-device-width:430px){
+    #attachment-search-main .attach-search-box input#search-attachment-input{width:100%;-webkit-box-sizing:border-box;box-sizing:border-box;}
+    #attachment-search-main .attach-search-box button{margin:10px auto;width:100%;}
+}

@@ -1,0 +1,2290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Product Attachment (Premium)\n"
+"Report-Msgid-Bugs-To: https://www.multidots.com/contact/\n"
+"POT-Creation-Date: 2022-09-08 10:16:01+00:00\n"
+"PO-Revision-Date: 2024-06-11 06:23+0000\n"
+"Last-Translator: \n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html_e;esc_html\n"
+"X-Loco-Version: 2.5.8; wp-5.9\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: woocommerce-product-attachment.php:274
+msgid "%1$s requires %2$s to be installed & activated!"
+msgstr ""
+
+#: admin/class-woocommerce-product-attachment-admin.php:809
+msgid "%1$s to review the document guide and download a sample CSV file."
+msgstr ""
+
+#. translators: %s: Link to documentation
+#: admin/partials/wcpoa-bulk-attachement-add.php:103
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:103
+msgid "%s to review the document guide."
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:531
+#: admin/partials/wcpoa-bulk-attachement-add.php:534
+#: admin/partials/wcpoa-bulk-attachement-add.php:537
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:664
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:667
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:670
+#: admin/partials/wcpoa-product-attachment-settings.php:734
+#: admin/partials/wcpoa-product-attachment-settings.php:738
+#: admin/partials/wcpoa-product-attachment-settings.php:742
+msgid "-"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:244
+msgid "1 site"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:254
+msgid "14-Day money-back guarantee"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:257
+msgid "14-Day Satisfaction Guarantee"
+msgstr ""
+
+#: public/class-woocommerce-product-attachment-public.php:200
+msgid ""
+"<strong>This Attachement is Expired.</strong> You are no longer to download "
+"this attachement."
+msgstr ""
+
+#: admin/class-woocommerce-product-attachment-admin.php:309
+msgid ""
+"<strong>We need your support</strong> to keep updating and improving the "
+"plugin. Please <a href=\"%1$s\" target=\"_blank\">help us by leaving a good "
+"review</a> :) Thanks!"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-quick-info.php:63
+msgid ""
+"[attachments_search placeholder=\"Search by product, category, attachment "
+"name\" noresult=\"No matching data found.\"]"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-quick-info.php:56
+msgid ""
+"[display_attachments product_id='18' hide_title='false' "
+"hide_size_label='false' hide_description='false']"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:152
+msgid "About"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:160
+msgid "Account"
+msgstr ""
+
+#: woocommerce-product-attachment.php:362
+msgid "Activate Plugin"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:100
+msgid ""
+"Add a promotional video to showcase the product's unique features in a "
+"separate tab."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:105
+msgid ""
+"Add a touch of personalization to your attachments by choosing custom icons. "
+"Select from a range of default icons or upload your custom icons."
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:390
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:784
+#: admin/partials/wcpoa-product-attachment-settings.php:459
+#: admin/partials/wcpoa-product-attachment-settings.php:898
+msgid "Add attachment as an external URL."
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:1079
+msgid "Add custom css"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:796
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:1037
+#: admin/partials/wcpoa-product-attachment-settings.php:1123
+msgid "Add New Attachment"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:502
+#: admin/partials/wcpoa-bulk-attachement-add.php:772
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:632
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:1020
+msgid "Add row"
+msgstr ""
+
+#. translators: %s: Link to documentation
+#: admin/partials/wcpoa-plugin-settings-page.php:607
+msgid ""
+"Add the name of the admin order attachment title. It will be displayed on "
+"the order details page before the admin order attachment list. Default tab "
+"name: Admin Attachments. %s."
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:791
+msgid "Add Unlimited Attachment"
+msgstr ""
+
+#. translators: %s: Link to documentation
+#: admin/partials/wcpoa-plugin-settings-page.php:1089
+msgid "Add your custom css for our product attachment section. %s."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:129
+msgid ""
+"Admin can upload attachments visible to customers in order emails. You can "
+"include crucial documents or discount offers upon purchase completion."
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:599
+msgid "Admin Order Attachments Title"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:579
+msgid "Admin Order Details Page Tab Title"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:133
+msgid ""
+"Admins can upload attachments that customers can access upon purchase "
+"completion."
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:366
+#: admin/partials/wcpoa-plugin-settings-page.php:445
+#: admin/partials/wcpoa-plugin-settings-page.php:524
+msgid "After Order"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:264
+msgid "Ali Husnain Arshad"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:381
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:417
+msgid "All Product"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:663
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:807
+msgid "All Product "
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:161
+msgid ""
+"Allow customers to access product user guides and warranties from the "
+"download tab for future reference."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:124
+msgid ""
+"Allow customers to attach proof of eligibility for discounts or special "
+"offers during checkout."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:123
+msgid ""
+"Allow customers to upload images of custom design preferences when ordering "
+"personalized products."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:158
+msgid ""
+"Allow easy access to essential files, such as user manuals or product "
+"warranties."
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:497
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:887
+msgid "Apply to selected categories and all its children"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:496
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:886
+msgid "Apply to selected categories only"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:667
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:811
+msgid ""
+"Assign attachment for All products. Also, you can assign attachment for "
+"specific Product, Specific Category or a specific tags"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:477
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:868
+msgid "Assignment"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:93
+msgid "Astra"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:99
+msgid "Attach a helpful style tips and care instructions video for customers."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:61
+msgid ""
+"Attach detailed user guides and manuals to help customers understand product "
+"features and functionalities."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:78
+msgid "Attach External URL"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:148
+msgid ""
+"Attach order invoices to \"Order Complete\" emails, allowing customers to "
+"review and track their purchases conveniently."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:74
+msgid ""
+"Attach product datasheets in bulk, ensuring customers can access detailed "
+"technical information for informed purchases."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:87
+msgid ""
+"Attach the external site's PDF file to help customers understand product "
+"usage better."
+msgstr ""
+
+#: admin/partials/dots-upgrade-popup.php:58
+msgid ""
+"Attach unlimited files and import them in bulk using a CSV file, saving you "
+"time and effort."
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:269
+#: admin/partials/wcpoa-bulk-attachement-add.php:557
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:292
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:690
+#: admin/partials/wcpoa-product-attachment-settings.php:290
+#: admin/partials/wcpoa-product-attachment-settings.php:768
+msgid "Attachment"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:377
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:413
+msgid "Attachment For"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:659
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:803
+msgid "Attachment For "
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:66
+msgid "Attachment Import"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:362
+#: admin/partials/wcpoa-plugin-settings-page.php:441
+#: admin/partials/wcpoa-plugin-settings-page.php:520
+msgid "Attachment List Position on Order Details Page"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:746
+msgid "Attachment Setting"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:180
+msgid "Attachment setting updated."
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:301
+#: admin/partials/wcpoa-bulk-attachement-add.php:588
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:324
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:721
+#: admin/partials/wcpoa-product-attachment-settings.php:314
+#: admin/partials/wcpoa-product-attachment-settings.php:790
+msgid "Attachment Type"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:391
+#: admin/partials/wcpoa-bulk-attachement-add.php:674
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:507
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:897
+msgid "Attachment Visibility Pages"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:915
+msgid "Attachments Action"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:1075
+msgid "Attachments Custom Styles"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:260
+#: admin/partials/wcpoa-bulk-attachement-add.php:548
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:283
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:681
+#: admin/partials/wcpoa-product-attachment-settings.php:278
+#: admin/partials/wcpoa-product-attachment-settings.php:756
+msgid ""
+"Attachments Id used to identify each product attachment.This value is "
+"automatically generated."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:153
+msgid "Attachments In Download Tab"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:103
+msgid "Be our friend on"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:368
+#: admin/partials/wcpoa-plugin-settings-page.php:447
+#: admin/partials/wcpoa-plugin-settings-page.php:526
+msgid "Before Order"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:397
+#: admin/partials/wcpoa-bulk-attachement-add.php:680
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:513
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:903
+#: admin/partials/wcpoa-plugin-settings-page.php:944
+msgid "Both"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:54
+#: admin/partials/header/plugin-header.php:116
+msgid "Bulk Attachment"
+msgstr ""
+
+#: admin/class-woocommerce-product-attachment-admin.php:150
+msgid "Bulk attachment deleted successfully."
+msgstr ""
+
+#: admin/class-woocommerce-product-attachment-admin.php:151
+msgid "Bulk attachment imported successfully."
+msgstr ""
+
+#: admin/class-woocommerce-product-attachment-admin.php:152
+msgid "Bulk attachment order changed successfully."
+msgstr ""
+
+#: admin/class-woocommerce-product-attachment-admin.php:149
+msgid "Bulk attachment successfully edited."
+msgstr ""
+
+#: admin/class-woocommerce-product-attachment-admin.php:148
+msgid "Bulk attachment successfully saved."
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-get-started.php:48
+msgid "Bulk Product Attachment"
+msgstr ""
+
+#: admin/class-woocommerce-product-attachment-admin.php:795
+msgid "Bulk Product Attachment Import"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:446
+#: admin/partials/wcpoa-bulk-attachement-add.php:726
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:563
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:951
+#: admin/partials/wcpoa-product-attachment-settings.php:583
+#: admin/partials/wcpoa-product-attachment-settings.php:1014
+msgid "Cancelled"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:170
+msgid ""
+"Check out the advanced features, simplify product management & reduce "
+"returns by upgrading to premium!"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:492
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:882
+msgid "Children categories"
+msgstr ""
+
+#. translators: %s: Link to documentation
+#: admin/partials/wcpoa-plugin-settings-page.php:329
+msgid ""
+"Choose to enable or disable the attachments listing on the order details "
+"page. %s."
+msgstr ""
+
+#: admin/class-woocommerce-product-attachment-admin.php:809
+#: admin/partials/wcpoa-bulk-attachement-add.php:104
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:104
+#: admin/partials/wcpoa-plugin-quick-info.php:29
+msgid "Click here"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:187
+msgid "Close"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:430
+#: admin/partials/wcpoa-bulk-attachement-add.php:710
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:547
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:935
+#: admin/partials/wcpoa-plugin-settings-page.php:403
+#: admin/partials/wcpoa-plugin-settings-page.php:482
+#: admin/partials/wcpoa-plugin-settings-page.php:561
+#: admin/partials/wcpoa-product-attachment-settings.php:567
+#: admin/partials/wcpoa-product-attachment-settings.php:998
+msgid "Completed"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:30
+#: admin/partials/dots-plugin-setup-wizard.php:58
+#: admin/partials/dots-plugin-setup-wizard.php:71
+#: admin/partials/dots-plugin-setup-wizard.php:116
+msgid "Continue"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:104
+msgid "Custom Icons"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-quick-info.php:54
+msgid "Custom template shortcode"
+msgstr ""
+
+#. translators: %s: Link to documentation
+#: admin/partials/wcpoa-plugin-settings-page.php:308
+msgid ""
+"Customize Order Page Tab Title: Displayed on the front end. All attachments "
+"will showcase under this tab. Default tab name: Attachment. %s."
+msgstr ""
+
+#. translators: %s: Link to documentation
+#: admin/partials/wcpoa-plugin-settings-page.php:242
+msgid ""
+"Customize Product Page Tab Title: Displayed on the front end. All "
+"attachments will showcase under this tab. Default tab name: Attachment. %s."
+msgstr ""
+
+#. translators: %s: Link to documentation
+#: admin/partials/wcpoa-plugin-settings-page.php:587
+msgid ""
+"Customize the Admin Order Details Page Tab Title: Displayed on the admin "
+"side. Default tab name: Attachment. %s."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:141
+msgid "Customized Email Attachments"
+msgstr ""
+
+#: admin/class-woocommerce-product-attachment-admin.php:1380
+msgid "Data has been successfully imported!"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:780
+#: admin/partials/wcpoa-plugin-settings-page.php:876
+#: admin/partials/wcpoa-plugin-settings-page.php:899
+msgid "Default Button"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:213
+#: admin/partials/wcpoa-bulk-attachement-add.php:527
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:112
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:236
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:660
+#: admin/partials/wcpoa-product-attachment-settings.php:233
+#: admin/partials/wcpoa-product-attachment-settings.php:729
+msgid "Delete"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:290
+#: admin/partials/wcpoa-bulk-attachement-add.php:578
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:313
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:711
+#: admin/partials/wcpoa-product-attachment-settings.php:301
+#: admin/partials/wcpoa-product-attachment-settings.php:778
+msgid "Description"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:282
+#: admin/partials/wcpoa-bulk-attachement-add.php:570
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:305
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:703
+#: admin/partials/wcpoa-plugin-settings-page.php:323
+#: admin/partials/wcpoa-plugin-settings-page.php:630
+#: admin/partials/wcpoa-plugin-settings-page.php:652
+#: admin/partials/wcpoa-plugin-settings-page.php:677
+#: admin/partials/wcpoa-plugin-settings-page.php:702
+#: admin/partials/wcpoa-plugin-settings-page.php:728
+msgid "Disable"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:174
+msgid "Discover Our Top Key Features"
+msgstr ""
+
+#: admin/class-woocommerce-product-attachment-admin.php:760
+#: admin/partials/wcpoa-plugin-settings-page.php:135
+#: admin/partials/wcpoa-plugin-settings-page.php:182
+msgid "Dismiss this notice."
+msgstr ""
+
+#. translators: %s: Link to documentation
+#: admin/partials/wcpoa-plugin-settings-page.php:393
+#: admin/partials/wcpoa-plugin-settings-page.php:472
+#: admin/partials/wcpoa-plugin-settings-page.php:551
+msgid "Display attachment on specific selected order status emails. %s."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:92
+msgid ""
+"Display YouTube video links as attachments in a new tab for a better user "
+"experience. Easily set all YouTube video links to open in a new tab."
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:91
+msgid "Do the Woo"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:286
+msgid "Do you offer support for the plugin? What’s it like?"
+msgstr ""
+
+#: includes/class-woocommerce-product-attachment.php:311
+msgid "Docs"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-quick-info.php:36
+msgid "Documentation"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:120
+msgid "Done"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:919
+msgid "Download"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:938
+msgid "Download Attachment Option"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:942
+msgid "Download By Button"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:943
+msgid "Download By Link"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:79
+msgid ""
+"Easily add external site URLs as attachments to your product pages. Attach "
+"references like PDF files, YouTube videos, and more for additional info."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:58
+msgid ""
+"Easily add general information to products with multiple bulk attachments, "
+"empowering customers with complete details for confident purchases."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:55
+msgid ""
+"Easily attach various general information, such as instructions, "
+"certificates, and user guides, to your products with the flexibility to add "
+"multiple bulk attachments."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:67
+msgid ""
+"Easily import product attachments in bulk. It provides a convenient bulk "
+"product attachment importer based on the products' SKUs."
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:97
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:97
+msgid ""
+"Easily manage and create bulk product attachments. Define the attachment's "
+"scope by specifying applicable products, categories, tags, and attributes."
+msgstr ""
+
+#: admin/partials/wcpoa-product-attachment-settings.php:119
+msgid "Easily manage and create multiple attachments for this product. "
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:212
+#: admin/partials/wcpoa-bulk-attachement-add.php:526
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:235
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:659
+#: admin/partials/wcpoa-product-attachment-settings.php:231
+#: admin/partials/wcpoa-product-attachment-settings.php:727
+msgid "Edit"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:142
+msgid ""
+"Effortlessly attach files to specific status-based emails, providing "
+"customers with streamlined visibility and relevant information based on "
+"their order status."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:70
+msgid ""
+"Effortlessly import product attachments in bulk using our convenient bulk "
+"product attachment importer, making it easy to manage attachments for "
+"multiple products at once."
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:27
+msgid ""
+"Elevate the customer experience with WooCommerce Product Attachment by "
+"offering downloadable files like user guides, certificates, warranty cards, "
+"documents, and more."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:120
+msgid ""
+"Empower your customers to upload files during checkout, making it convenient "
+"for them to include screenshots, images, or essential documents such as "
+"licenses and prescriptions."
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-quick-info.php:57
+msgid "Empty product id will take default product."
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:281
+#: admin/partials/wcpoa-bulk-attachement-add.php:569
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:304
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:702
+#: admin/partials/wcpoa-plugin-settings-page.php:321
+#: admin/partials/wcpoa-plugin-settings-page.php:628
+#: admin/partials/wcpoa-plugin-settings-page.php:650
+#: admin/partials/wcpoa-plugin-settings-page.php:675
+#: admin/partials/wcpoa-plugin-settings-page.php:699
+#: admin/partials/wcpoa-plugin-settings-page.php:725
+msgid "Enable"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:285
+#: admin/partials/wcpoa-bulk-attachement-add.php:573
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:308
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:706
+msgid ""
+"Enable or Disable attachment using this option (This attachment will be "
+"visible to customers only if it is enabled)."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:162
+msgid ""
+"Enable quick access to digital certificates and licenses for customers in "
+"the download tab."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:82
+msgid "Enable the attachment of external site URLs to your product pages."
+msgstr ""
+
+#. translators: %s: Link to documentation
+#: admin/partials/wcpoa-plugin-settings-page.php:979
+msgid ""
+"Enable the attachment tab to be selected by default in the first position on "
+"the product page. %s."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:154
+msgid ""
+"Enable the display of attachments in the download tab of your customers' "
+"store accounts, providing easy access for multiple viewings."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:117
+msgid ""
+"Enable users to upload files during checkout, allowing them to add "
+"screenshots, pictures, or important documents like licenses or prescriptions."
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-quick-info.php:44
+msgid "English, Spanish"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:157
+msgid ""
+"Enhance customer convenience by displaying attachments in the download tab "
+"of their store accounts."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:132
+msgid ""
+"Enhance order communication by attaching important documents or exclusive "
+"offers to order completion emails."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:145
+msgid ""
+"Enhance order transparency and simplify customer communication by providing "
+"relevant information, such as invoices or shipping details, based on their "
+"order status."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:62
+msgid ""
+"Enhance product transparency by attaching relevant instructions and warranty "
+"details for informed purchases."
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-get-started.php:37
+msgid ""
+"Enhance your customer experience of product pages with downloadable files, "
+"such as technical descriptions, certificates, and licenses, user guides, and "
+"manuals, etc. A plugin will help you to attach/ upload any kind of files "
+"(doc, jpg, videos, pdf) for a customer orders."
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:294
+#: admin/partials/wcpoa-bulk-attachement-add.php:581
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:317
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:714
+#: admin/partials/wcpoa-product-attachment-settings.php:304
+#: admin/partials/wcpoa-product-attachment-settings.php:781
+msgid "Enter a description"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:271
+#: admin/partials/wcpoa-bulk-attachement-add.php:559
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:294
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:692
+#: admin/partials/wcpoa-product-attachment-settings.php:293
+#: admin/partials/wcpoa-product-attachment-settings.php:771
+msgid ""
+"Enter a name for the attachment. It will be displayed on the front end next "
+"to the download/view button."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:262
+msgid "Excelent Plugin, Fantastic Support"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:484
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:874
+msgid "Except the selected item(s)/category(ies)/tag(s)/attribute(s)"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:134
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:143
+#: admin/partials/wcpoa-product-attachment-settings.php:142
+msgid "Expire"
+msgstr ""
+
+#: public/partials/wcpoa-download-tab-attachments.php:122
+#: public/partials/wcpoa-download-tab-attachments.php:143
+#: public/partials/wcpoa-download-tab-attachments.php:217
+#: public/partials/wcpoa-download-tab-attachments.php:237
+#: public/partials/wcpoa-download-tab-attachments.php:352
+#: public/partials/wcpoa-download-tab-attachments.php:399
+#: public/partials/wcpoa-download-tab-attachments.php:503
+#: public/partials/wcpoa-download-tab-attachments.php:523
+#: public/partials/wcpoa-download-tab-attachments.php:598
+#: public/partials/wcpoa-download-tab-attachments.php:618
+#: public/partials/wcpoa-download-tab-attachments.php:732
+#: public/partials/wcpoa-download-tab-attachments.php:776
+#: public/partials/wcpoa-download-tab-attachments.php:974
+#: public/partials/wcpoa-download-tab-attachments.php:1020
+msgid "Expired"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:113
+msgid "Export"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:91
+msgid "Extension not allowed, please choose a JPEG or PNG file."
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:224
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:247
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:330
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:385
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:727
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:779
+#: admin/partials/wcpoa-product-attachment-settings.php:244
+#: admin/partials/wcpoa-product-attachment-settings.php:330
+#: admin/partials/wcpoa-product-attachment-settings.php:451
+#: admin/partials/wcpoa-product-attachment-settings.php:801
+#: admin/partials/wcpoa-product-attachment-settings.php:890
+msgid "External URL"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:307
+#: admin/partials/wcpoa-bulk-attachement-add.php:594
+#: admin/partials/wcpoa-product-attachment-settings.php:340
+#: admin/partials/wcpoa-product-attachment-settings.php:351
+#: admin/partials/wcpoa-product-attachment-settings.php:809
+#: admin/partials/wcpoa-product-attachment-settings.php:819
+msgid "External URL 🔒"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:450
+#: admin/partials/wcpoa-bulk-attachement-add.php:730
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:567
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:955
+#: admin/partials/wcpoa-product-attachment-settings.php:587
+#: admin/partials/wcpoa-product-attachment-settings.php:1018
+msgid "Failed"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:282
+msgid "FAQs"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:333
+#: admin/partials/wcpoa-bulk-attachement-add.php:620
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:357
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:753
+#: admin/partials/wcpoa-product-attachment-settings.php:398
+msgid "File name"
+msgstr ""
+
+#: admin/partials/wcpoa-product-attachment-settings.php:856
+msgid "File name:"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:337
+#: admin/partials/wcpoa-bulk-attachement-add.php:624
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:361
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:757
+#: admin/partials/wcpoa-product-attachment-settings.php:404
+msgid "File size"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:96
+msgid "File size must be excately 2 MB"
+msgstr ""
+
+#: admin/partials/wcpoa-product-attachment-settings.php:860
+msgid "File size:"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:306
+#: admin/partials/wcpoa-bulk-attachement-add.php:593
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:329
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:726
+#: admin/partials/wcpoa-product-attachment-settings.php:325
+#: admin/partials/wcpoa-product-attachment-settings.php:337
+#: admin/partials/wcpoa-product-attachment-settings.php:348
+#: admin/partials/wcpoa-product-attachment-settings.php:799
+#: admin/partials/wcpoa-product-attachment-settings.php:807
+#: admin/partials/wcpoa-product-attachment-settings.php:817
+msgid "File Upload"
+msgstr ""
+
+#: admin/partials/wcpoa-product-attachment-settings.php:842
+msgid "File value is required."
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:482
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:872
+msgid "For all selected item"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:234
+msgid "Frontend Product Page Tab Title"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:230
+msgid "FRONTEND: Product Page"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:41
+msgid ""
+"Get improved features and faster fixes by sharing non-sensitive data via "
+"usage-tracking. This will help us make the plugin more compatible with your "
+"site. No personal data is tracked or stored."
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:133
+msgid "Get Premium"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:248
+#: admin/partials/dots-upgrade-dashboard.php:336
+msgid "Get The Premium Version"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-get-started.php:32
+msgid "Getting Started"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:962
+msgid "Global Default Setting"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:115
+msgid "Global Settings"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:245
+msgid "Great for website owners with a single WooCommerce Store"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:273
+msgid "Guest / Not logged In"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:89
+msgid "Help"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-quick-info.php:32
+msgid "Help & Support"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:40
+msgid "Help us build a better \"Product Attachment\" Plugin!"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:623
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:1011
+#: admin/partials/wcpoa-product-attachment-settings.php:686
+#: admin/partials/wcpoa-product-attachment-settings.php:1104
+msgid "Hours"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:263
+msgid ""
+"I chose this plugin over others for its fantastic support. The team assisted "
+"me with customization and even provided free services upon request. Highly "
+"recommended!"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:319
+msgid "I have more questions…"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:255
+#: admin/partials/wcpoa-bulk-attachement-add.php:542
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:278
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:675
+#: admin/partials/wcpoa-product-attachment-settings.php:269
+#: admin/partials/wcpoa-product-attachment-settings.php:748
+msgid "Id"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:484
+#: admin/partials/wcpoa-bulk-attachement-add.php:764
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:601
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:989
+#: admin/partials/wcpoa-product-attachment-settings.php:649
+#: admin/partials/wcpoa-product-attachment-settings.php:1071
+msgid ""
+"If an order is placed after the selected date, the attachments will be no "
+"longer visible for download. ( Date format: yy/mm/dd )"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:500
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:890
+msgid ""
+"If at least one category has been selected, you can decide to apply the "
+"scheduling rule also to children categories items."
+msgstr ""
+
+#. translators: %s: Link to documentation
+#: admin/partials/wcpoa-plugin-settings-page.php:786
+#: admin/partials/wcpoa-plugin-settings-page.php:882
+#: admin/partials/wcpoa-plugin-settings-page.php:905
+msgid ""
+"If no file icon selected then it will show the default attachment type. %s."
+msgstr ""
+
+#: admin/class-woocommerce-product-attachment-admin.php:812
+#: admin/partials/wcpoa-bulk-attachement-add.php:112
+msgid "Import"
+msgstr ""
+
+#: admin/class-woocommerce-product-attachment-admin.php:807
+msgid "Import Attachments"
+msgstr ""
+
+#: admin/class-woocommerce-product-attachment-admin.php:1375
+msgid ""
+"Import process completed! Some product SKUs are not match with product list."
+msgstr ""
+
+#: admin/class-woocommerce-product-attachment-admin.php:804
+msgid ""
+"Import product attachments in bulk using product SKUs. Ensure your products "
+"have SKUs and upload a CSV file for import. Imported attachments will be "
+"added to the corresponding single-product pages based on SKUs. "
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:73
+msgid ""
+"Import return and exchange policies for products with related SKUs for "
+"efficient documentation management."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:95
+msgid ""
+"Improve the user experience by displaying YouTube video links as attachments "
+"in a new tab."
+msgstr ""
+
+#: admin/partials/wcpoa-product-attachment-settings.php:535
+#: admin/partials/wcpoa-product-attachment-settings.php:978
+msgid ""
+"In case of variable product, you can enable attachments only for specific "
+"variants. Leave unselected to apply to all"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:86
+msgid ""
+"Include a YouTube video demonstration to showcase product features and "
+"benefits."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:137
+msgid ""
+"Include warranty information and product care instructions as attachments in "
+"order emails."
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-quick-info.php:24
+msgid "Installed Version"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-quick-info.php:12
+msgid "Introduction"
+msgstr ""
+
+#: public/class-woocommerce-product-attachment-public.php:550
+#: public/class-woocommerce-product-attachment-public.php:1111
+msgid "Invalid URL"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:293
+msgid "knowledge base"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:243
+#: admin/partials/wcpoa-plugin-settings-page.php:261
+#: admin/partials/wcpoa-plugin-settings-page.php:309
+#: admin/partials/wcpoa-plugin-settings-page.php:330
+#: admin/partials/wcpoa-plugin-settings-page.php:354
+#: admin/partials/wcpoa-plugin-settings-page.php:375
+#: admin/partials/wcpoa-plugin-settings-page.php:394
+#: admin/partials/wcpoa-plugin-settings-page.php:433
+#: admin/partials/wcpoa-plugin-settings-page.php:454
+#: admin/partials/wcpoa-plugin-settings-page.php:473
+#: admin/partials/wcpoa-plugin-settings-page.php:512
+#: admin/partials/wcpoa-plugin-settings-page.php:533
+#: admin/partials/wcpoa-plugin-settings-page.php:552
+#: admin/partials/wcpoa-plugin-settings-page.php:588
+#: admin/partials/wcpoa-plugin-settings-page.php:608
+#: admin/partials/wcpoa-plugin-settings-page.php:637
+#: admin/partials/wcpoa-plugin-settings-page.php:659
+#: admin/partials/wcpoa-plugin-settings-page.php:684
+#: admin/partials/wcpoa-plugin-settings-page.php:709
+#: admin/partials/wcpoa-plugin-settings-page.php:735
+#: admin/partials/wcpoa-plugin-settings-page.php:763
+#: admin/partials/wcpoa-plugin-settings-page.php:787
+#: admin/partials/wcpoa-plugin-settings-page.php:883
+#: admin/partials/wcpoa-plugin-settings-page.php:906
+#: admin/partials/wcpoa-plugin-settings-page.php:928
+#: admin/partials/wcpoa-plugin-settings-page.php:952
+#: admin/partials/wcpoa-plugin-settings-page.php:980
+#: admin/partials/wcpoa-plugin-settings-page.php:1003
+#: admin/partials/wcpoa-plugin-settings-page.php:1028
+#: admin/partials/wcpoa-plugin-settings-page.php:1063
+#: admin/partials/wcpoa-plugin-settings-page.php:1090
+msgid "Learn more"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:88
+msgid "LearnWoo"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:124
+msgid "License"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-quick-info.php:28
+msgid "License & Terms of use"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-quick-info.php:43
+msgid "Localization"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:95
+msgid "Medium"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:622
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:1010
+#: admin/partials/wcpoa-product-attachment-settings.php:683
+#: admin/partials/wcpoa-product-attachment-settings.php:1102
+msgid "Minutes"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:239
+msgid "month"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:96
+#: admin/partials/wcpoa-plugin-settings-page.php:620
+msgid "My Account"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:125
+#: admin/partials/wcpoa-bulk-attachement-add.php:266
+#: admin/partials/wcpoa-bulk-attachement-add.php:554
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:134
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:289
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:687
+#: admin/partials/wcpoa-product-attachment-settings.php:132
+#: admin/partials/wcpoa-product-attachment-settings.php:286
+#: admin/partials/wcpoa-product-attachment-settings.php:764
+msgid "Name"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:48
+msgid "Never miss an important update"
+msgstr ""
+
+#: admin/class-woocommerce-product-attachment-admin.php:147
+msgid "New bulk attachment successfully inserted."
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:243
+#: admin/partials/wcpoa-bulk-attachement-add.php:366
+#: admin/partials/wcpoa-bulk-attachement-add.php:411
+#: admin/partials/wcpoa-bulk-attachement-add.php:466
+#: admin/partials/wcpoa-bulk-attachement-add.php:649
+#: admin/partials/wcpoa-bulk-attachement-add.php:693
+#: admin/partials/wcpoa-bulk-attachement-add.php:746
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:266
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:402
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:528
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:583
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:794
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:917
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:971
+#: admin/partials/wcpoa-plugin-settings-page.php:347
+#: admin/partials/wcpoa-plugin-settings-page.php:426
+#: admin/partials/wcpoa-plugin-settings-page.php:505
+#: admin/partials/wcpoa-plugin-settings-page.php:756
+#: admin/partials/wcpoa-plugin-settings-page.php:973
+#: admin/partials/wcpoa-plugin-settings-page.php:996
+#: admin/partials/wcpoa-plugin-settings-page.php:1021
+#: admin/partials/wcpoa-plugin-settings-page.php:1056
+#: admin/partials/wcpoa-product-attachment-settings.php:251
+#: admin/partials/wcpoa-product-attachment-settings.php:258
+#: admin/partials/wcpoa-product-attachment-settings.php:473
+#: admin/partials/wcpoa-product-attachment-settings.php:497
+#: admin/partials/wcpoa-product-attachment-settings.php:514
+#: admin/partials/wcpoa-product-attachment-settings.php:606
+#: admin/partials/wcpoa-product-attachment-settings.php:912
+#: admin/partials/wcpoa-product-attachment-settings.php:932
+#: admin/partials/wcpoa-product-attachment-settings.php:950
+#: admin/partials/wcpoa-product-attachment-settings.php:1035
+msgid "No"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:513
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:643
+msgid "No Attachment Found !"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:524
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:657
+#: admin/partials/wcpoa-product-attachment-settings.php:724
+msgid "No Attachment Name"
+msgstr ""
+
+#: admin/partials/wcpoa-product-attachment-settings.php:433
+msgid "No file selected"
+msgstr ""
+
+#: admin/partials/wcpoa-product-attachment-settings.php:874
+msgid "No file selected "
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:325
+msgid "No problem, we’re happy to help! Please reach out at %s."
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:122
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:131
+#: admin/partials/wcpoa-product-attachment-settings.php:129
+msgid "No."
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:828
+msgid "None"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-quick-info.php:57
+msgid "Note:"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:434
+#: admin/partials/wcpoa-bulk-attachement-add.php:714
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:551
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:939
+#: admin/partials/wcpoa-plugin-settings-page.php:407
+#: admin/partials/wcpoa-plugin-settings-page.php:486
+#: admin/partials/wcpoa-plugin-settings-page.php:565
+#: admin/partials/wcpoa-product-attachment-settings.php:571
+#: admin/partials/wcpoa-product-attachment-settings.php:1002
+msgid "On Hold"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:360
+#: admin/partials/wcpoa-bulk-attachement-add.php:644
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:396
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:789
+#: admin/partials/wcpoa-product-attachment-settings.php:467
+#: admin/partials/wcpoa-product-attachment-settings.php:907
+msgid "Open in new window"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:49
+msgid ""
+"Opt-in to get email notifications for security & feature updates and to "
+"share some important WooCommerce updates. This will help us make the plugin "
+"more compatible with your version and better at doing what you need it to. "
+"No personal data is tracked or stored."
+msgstr ""
+
+#: public/partials/wcpoa-download-tab-attachments.php:124
+#: public/partials/wcpoa-download-tab-attachments.php:145
+#: public/partials/wcpoa-download-tab-attachments.php:169
+#: public/partials/wcpoa-download-tab-attachments.php:189
+#: public/partials/wcpoa-download-tab-attachments.php:219
+#: public/partials/wcpoa-download-tab-attachments.php:239
+#: public/partials/wcpoa-download-tab-attachments.php:263
+#: public/partials/wcpoa-download-tab-attachments.php:283
+#: public/partials/wcpoa-download-tab-attachments.php:308
+#: public/partials/wcpoa-download-tab-attachments.php:328
+#: public/partials/wcpoa-download-tab-attachments.php:354
+#: public/partials/wcpoa-download-tab-attachments.php:376
+#: public/partials/wcpoa-download-tab-attachments.php:401
+#: public/partials/wcpoa-download-tab-attachments.php:421
+#: public/partials/wcpoa-download-tab-attachments.php:442
+#: public/partials/wcpoa-download-tab-attachments.php:505
+#: public/partials/wcpoa-download-tab-attachments.php:525
+#: public/partials/wcpoa-download-tab-attachments.php:550
+#: public/partials/wcpoa-download-tab-attachments.php:570
+#: public/partials/wcpoa-download-tab-attachments.php:600
+#: public/partials/wcpoa-download-tab-attachments.php:620
+#: public/partials/wcpoa-download-tab-attachments.php:644
+#: public/partials/wcpoa-download-tab-attachments.php:664
+#: public/partials/wcpoa-download-tab-attachments.php:689
+#: public/partials/wcpoa-download-tab-attachments.php:709
+#: public/partials/wcpoa-download-tab-attachments.php:734
+#: public/partials/wcpoa-download-tab-attachments.php:754
+#: public/partials/wcpoa-download-tab-attachments.php:778
+#: public/partials/wcpoa-download-tab-attachments.php:798
+#: public/partials/wcpoa-download-tab-attachments.php:819
+#: public/partials/wcpoa-download-tab-attachments.php:976
+#: public/partials/wcpoa-download-tab-attachments.php:996
+#: public/partials/wcpoa-download-tab-attachments.php:1022
+#: public/partials/wcpoa-download-tab-attachments.php:1043
+#: public/partials/wcpoa-download-tab-attachments.php:1064
+#: public/partials/wcpoa-download-tab-attachments.php:1105
+#: public/partials/wcpoa-download-tab-attachments.php:1136
+msgid "Order #%s"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:296
+msgid "Order Attachment Setting"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:128
+msgid "Order Attachments"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:230
+#: admin/partials/wcpoa-bulk-attachement-add.php:395
+#: admin/partials/wcpoa-bulk-attachement-add.php:678
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:253
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:511
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:901
+msgid "Order Details Page"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:300
+msgid "Order Details Page Tab Title"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:423
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:540
+msgid "Order Status"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:703
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:928
+#: admin/partials/wcpoa-product-attachment-settings.php:557
+#: admin/partials/wcpoa-product-attachment-settings.php:989
+msgid "Order status"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:234
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:257
+msgid "Order/ Product Details Page"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:96
+msgid "Others"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:240
+msgid "Pay $%s today. Renews in 12 months."
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:438
+#: admin/partials/wcpoa-bulk-attachement-add.php:718
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:555
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:943
+#: admin/partials/wcpoa-product-attachment-settings.php:575
+#: admin/partials/wcpoa-product-attachment-settings.php:1006
+msgid "Pending payment"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:233
+msgid "Personal"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:231
+msgid "Personal Plan"
+msgstr ""
+
+#: admin/partials/dots-upgrade-popup.php:59
+msgid ""
+"Personalize your attachments with custom icons and choose specific status "
+"emails for delivery."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:108
+msgid ""
+"Personalize your attachments with custom icons. Choose from a variety of "
+"default icons or upload your own to add a unique touch to your product pages."
+msgstr ""
+
+#: admin/class-woocommerce-product-attachment-admin.php:1232
+msgid "Please add CSV file!"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:824
+msgid "Please choose a JPEG or PNG file."
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:113
+msgid "Please click on save changes to import."
+msgstr ""
+
+#: admin/class-woocommerce-product-attachment-admin.php:145
+msgid ""
+"Please fill required fields in the WooCommerce Product Attachment section "
+"below."
+msgstr ""
+
+#: public/class-woocommerce-product-attachment-public.php:971
+#: public/class-woocommerce-product-attachment-public.php:991
+msgid "Please Login To Download Attachment"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:442
+#: admin/partials/wcpoa-bulk-attachement-add.php:722
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:559
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:947
+#: admin/partials/wcpoa-plugin-settings-page.php:411
+#: admin/partials/wcpoa-plugin-settings-page.php:490
+#: admin/partials/wcpoa-plugin-settings-page.php:569
+#: admin/partials/wcpoa-product-attachment-settings.php:579
+#: admin/partials/wcpoa-product-attachment-settings.php:1010
+msgid "Processing"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:76
+msgid "Product Attachment"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-get-started.php:60
+msgid "Product Attachment Admin Side WooCommerce Order Page"
+msgstr ""
+
+#: admin/class-woocommerce-product-attachment-admin.php:781
+msgid "Product Bulk Attachments"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:232
+#: admin/partials/wcpoa-bulk-attachement-add.php:396
+#: admin/partials/wcpoa-bulk-attachement-add.php:679
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:255
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:512
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:902
+msgid "Product Details Page"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-quick-info.php:20
+msgid "Product Name"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-quick-info.php:16
+msgid "Product Type"
+msgstr ""
+
+#: admin/class-woocommerce-product-attachment-admin.php:834
+msgid "Publish"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:153
+msgid "Quick info"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-quick-info.php:35
+msgid "Quick Start Guide"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:65
+#: admin/partials/dots-plugin-setup-wizard.php:67
+#: admin/partials/wcpoa-plugin-get-started.php:40
+msgid "Quick Tour"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:454
+#: admin/partials/wcpoa-bulk-attachement-add.php:734
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:571
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:959
+#: admin/partials/wcpoa-product-attachment-settings.php:591
+#: admin/partials/wcpoa-product-attachment-settings.php:1022
+msgid "Refunded"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:213
+#: admin/partials/wcpoa-bulk-attachement-add.php:527
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:236
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:660
+#: admin/partials/wcpoa-product-attachment-settings.php:233
+#: admin/partials/wcpoa-product-attachment-settings.php:729
+msgid "Remove"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:863
+msgid "Remove Background Color from Icon"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:503
+#: admin/partials/wcpoa-bulk-attachement-add.php:773
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:633
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:1021
+msgid "Remove row"
+msgstr ""
+
+#: public/class-woocommerce-product-attachment-public.php:989
+msgid "Restrict To Download Attachment"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:1033
+msgid "Save Changes"
+msgstr ""
+
+#: admin/partials/dots-upgrade-popup.php:64
+msgid "Save Now & Upgrade"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-quick-info.php:61
+msgid "Search attachments shortcode"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:87
+msgid "Search Engine"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:621
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:1009
+#: admin/partials/wcpoa-product-attachment-settings.php:680
+#: admin/partials/wcpoa-product-attachment-settings.php:1100
+msgid "Seconds"
+msgstr ""
+
+#: admin/class-woocommerce-product-attachment-admin.php:156
+msgid "Select a category"
+msgstr ""
+
+#. translators: %s: Link to documentation
+#: admin/partials/wcpoa-plugin-settings-page.php:374
+#: admin/partials/wcpoa-plugin-settings-page.php:453
+#: admin/partials/wcpoa-plugin-settings-page.php:532
+msgid "Select a position for attachment list on order details page. %s."
+msgstr ""
+
+#: admin/class-woocommerce-product-attachment-admin.php:155
+msgid "Select a product"
+msgstr ""
+
+#: admin/class-woocommerce-product-attachment-admin.php:157
+msgid "Select a tag"
+msgstr ""
+
+#: admin/class-woocommerce-product-attachment-admin.php:158
+msgid "Select an attribute"
+msgstr ""
+
+#. translators: %s: Link to documentation
+#: admin/partials/wcpoa-plugin-settings-page.php:951
+msgid "Select an option/type to download the product attachments. %s."
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:464
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:855
+msgid "Select Attributes"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:439
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:829
+msgid "Select Categories"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:446
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:837
+msgid "Select categories for bulk attachment apply."
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:371
+#: admin/partials/wcpoa-bulk-attachement-add.php:653
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:407
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:798
+#: admin/partials/wcpoa-product-attachment-settings.php:480
+#: admin/partials/wcpoa-product-attachment-settings.php:918
+msgid ""
+"Select Link Behavior: Specify whether you want the attachment link to open "
+"in a new window or the same window."
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:85
+msgid "Select One"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:387
+#: admin/partials/wcpoa-plugin-settings-page.php:466
+#: admin/partials/wcpoa-plugin-settings-page.php:545
+msgid ""
+"Select order status for which the attachment(s) will be visible. Leave "
+"unselected to apply to all."
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:426
+#: admin/partials/wcpoa-bulk-attachement-add.php:706
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:543
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:931
+#: admin/partials/wcpoa-product-attachment-settings.php:562
+#: admin/partials/wcpoa-product-attachment-settings.php:993
+msgid ""
+"Select order status, where you want to showcase attachment. Leave unselected "
+"then apply to all."
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:472
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:862
+msgid "Select product attributes for bulk attachment apply."
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:459
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:849
+msgid "Select product tags for bulk attachment apply."
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:427
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:817
+msgid "Select Products"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:434
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:824
+msgid "Select products for bulk attachment apply."
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:451
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:842
+msgid "Select Tags"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:310
+#: admin/partials/wcpoa-bulk-attachement-add.php:597
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:333
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:730
+#: admin/partials/wcpoa-product-attachment-settings.php:356
+msgid "Select the attachment type. Like Upload file / External URL"
+msgstr ""
+
+#: admin/partials/wcpoa-product-attachment-settings.php:825
+msgid "Select the attachment type. Like Upload file / External URL."
+msgstr ""
+
+#. translators: %s: Link to documentation
+#: admin/partials/wcpoa-plugin-settings-page.php:260
+msgid ""
+"Select to display product attachments to all or only to specific selected "
+"user roles. %s."
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:384
+#: admin/partials/wcpoa-plugin-settings-page.php:463
+#: admin/partials/wcpoa-plugin-settings-page.php:542
+msgid "Select to which status email the attachment as to be attached"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:353
+#: admin/partials/wcpoa-bulk-attachement-add.php:638
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:377
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:771
+#: admin/partials/wcpoa-product-attachment-settings.php:440
+#: admin/partials/wcpoa-product-attachment-settings.php:879
+msgid "Select upload attachment File."
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:254
+msgid ""
+"Select user role, which you want to display an attachment. Leave unselected "
+"then apply to all."
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:400
+#: admin/partials/wcpoa-bulk-attachement-add.php:683
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:516
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:906
+msgid ""
+"Select where you want to showcase the attachment - Product Page, Order Page, "
+"or Both."
+msgstr ""
+
+#. translators: %s: Link to documentation
+#: admin/partials/wcpoa-plugin-settings-page.php:683
+#: admin/partials/wcpoa-plugin-settings-page.php:708
+#: admin/partials/wcpoa-plugin-settings-page.php:734
+msgid "Select whether to display attachments in Download tab or not. %s."
+msgstr ""
+
+#. translators: %s: Link to documentation
+#: admin/partials/wcpoa-plugin-settings-page.php:636
+msgid "Select whether to display attachments in My Account page or not. %s."
+msgstr ""
+
+#. translators: %s: Link to documentation
+#: admin/partials/wcpoa-plugin-settings-page.php:353
+#: admin/partials/wcpoa-plugin-settings-page.php:432
+#: admin/partials/wcpoa-plugin-settings-page.php:511
+msgid "Select whether to display attachments in order emails or not. %s."
+msgstr ""
+
+#. translators: %s: Link to documentation
+#: admin/partials/wcpoa-plugin-settings-page.php:658
+msgid "Select whether to display attachments in Thank You page or not. %s."
+msgstr ""
+
+#. translators: %s: Link to documentation
+#: admin/partials/wcpoa-plugin-settings-page.php:1002
+msgid "Select whether to display size of the attached file or not. %s."
+msgstr ""
+
+#. translators: %s: Link to documentation
+#: admin/partials/wcpoa-plugin-settings-page.php:1062
+msgid ""
+"Select whether to open YouTube video links in a new tab in video format or "
+"not. %s."
+msgstr ""
+
+#. translators: %s: Link to documentation
+#: admin/partials/wcpoa-plugin-settings-page.php:1027
+msgid ""
+"Select whether to provide an option to your customers to upload files during "
+"the checkout or not. %s."
+msgstr ""
+
+#. translators: %s: Link to documentation
+#: admin/partials/wcpoa-plugin-settings-page.php:762
+msgid "Select whether to show attachment expiry date or not. %s."
+msgstr ""
+
+#: admin/partials/wcpoa-product-attachment-settings.php:501
+#: admin/partials/wcpoa-product-attachment-settings.php:937
+msgid ""
+"Select whether you want to display the attachment on the product page or not."
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:416
+#: admin/partials/wcpoa-bulk-attachement-add.php:697
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:533
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:921
+#: admin/partials/wcpoa-product-attachment-settings.php:521
+#: admin/partials/wcpoa-product-attachment-settings.php:956
+msgid ""
+"Select whether you want to display the attachment only for logged-in users "
+"or not."
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:585
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:973
+#: admin/partials/wcpoa-product-attachment-settings.php:616
+#: admin/partials/wcpoa-product-attachment-settings.php:1042
+msgid "Selected time period after purchase"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:468
+#: admin/partials/wcpoa-bulk-attachement-add.php:748
+#: admin/partials/wcpoa-product-attachment-settings.php:620
+#: admin/partials/wcpoa-product-attachment-settings.php:625
+#: admin/partials/wcpoa-product-attachment-settings.php:1046
+#: admin/partials/wcpoa-product-attachment-settings.php:1051
+msgid "Selected time period after purchase 🔒"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:136
+msgid ""
+"Send a thank-you note and a discount coupon code as an attachment to "
+"encourage repeat purchases."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:149
+msgid ""
+"Send order confirmation emails with attached product manuals to give "
+"customers essential information upon purchase."
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:471
+#: admin/partials/wcpoa-bulk-attachement-add.php:751
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:588
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:976
+#: admin/partials/wcpoa-product-attachment-settings.php:631
+#: admin/partials/wcpoa-product-attachment-settings.php:1057
+msgid "Set a specific date and specific time to access the attachment."
+msgstr ""
+
+#. translators: %s: Link to documentation
+#: admin/partials/wcpoa-plugin-settings-page.php:927
+msgid "Set attachments action as download or view in browser. %s."
+msgstr ""
+
+#: admin/partials/dots-upgrade-popup.php:60
+msgid ""
+"Set expiration periods for attachments and customize their placement on "
+"order details pages."
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:462
+#: admin/partials/wcpoa-bulk-attachement-add.php:742
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:579
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:967
+#: admin/partials/wcpoa-product-attachment-settings.php:600
+#: admin/partials/wcpoa-product-attachment-settings.php:1029
+msgid "Set Expire date/time"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:967
+msgid "Set product attachment tab default selected"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:496
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:613
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:626
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:1001
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:1014
+#: admin/partials/wcpoa-product-attachment-settings.php:667
+#: admin/partials/wcpoa-product-attachment-settings.php:690
+#: admin/partials/wcpoa-product-attachment-settings.php:1088
+#: admin/partials/wcpoa-product-attachment-settings.php:1108
+msgid "Set time period, After that Attachment will not accessible."
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-get-started.php:44
+msgid "Setting Page"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:118
+#: includes/class-woocommerce-product-attachment.php:310
+msgid "Settings"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:166
+msgid "Shop Plugins"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:317
+msgid "Show Attachments Button on Orders Listing Page"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:750
+msgid "Show Attachments Expire Date"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:774
+#: admin/partials/wcpoa-plugin-settings-page.php:870
+#: admin/partials/wcpoa-plugin-settings-page.php:893
+msgid "Show Attachments File Icon / Download Button"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:671
+#: admin/partials/wcpoa-plugin-settings-page.php:694
+#: admin/partials/wcpoa-plugin-settings-page.php:720
+msgid "Show Attachments in Download Tab"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:624
+msgid "Show Attachments in My Account Page"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:646
+msgid "Show Attachments in Thank You Page"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:341
+#: admin/partials/wcpoa-plugin-settings-page.php:420
+#: admin/partials/wcpoa-plugin-settings-page.php:499
+msgid "Show Attachments on Order Email"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:990
+msgid "Show attachments with size"
+msgstr ""
+
+#: admin/partials/wcpoa-product-attachment-settings.php:488
+#: admin/partials/wcpoa-product-attachment-settings.php:926
+msgid "Show on Product page"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:405
+#: admin/partials/wcpoa-bulk-attachement-add.php:688
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:522
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:912
+#: admin/partials/wcpoa-product-attachment-settings.php:508
+#: admin/partials/wcpoa-product-attachment-settings.php:945
+msgid "Show only for logged in users"
+msgstr ""
+
+#: admin/partials/wcpoa-product-attachment-settings.php:139
+msgid "Show Product page"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:1015
+msgid "Show user attachments button on checkout page"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:1050
+msgid "Showcase Youtube Link in new tab"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-get-started.php:52
+msgid "Single Product Attachment Admin Side"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-get-started.php:56
+msgid "Single Product Attachment Front Side"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:86
+msgid "Social Media"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:245
+#: admin/partials/wcpoa-bulk-attachement-add.php:467
+#: admin/partials/wcpoa-bulk-attachement-add.php:477
+#: admin/partials/wcpoa-bulk-attachement-add.php:747
+#: admin/partials/wcpoa-bulk-attachement-add.php:758
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:268
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:584
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:594
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:972
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:983
+#: admin/partials/wcpoa-product-attachment-settings.php:260
+#: admin/partials/wcpoa-product-attachment-settings.php:609
+#: admin/partials/wcpoa-product-attachment-settings.php:641
+#: admin/partials/wcpoa-product-attachment-settings.php:1037
+#: admin/partials/wcpoa-product-attachment-settings.php:1064
+msgid "Specific Date"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:418
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:808
+msgid "Specific Product, Category, Tags, Attributes"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:382
+#: admin/partials/wcpoa-bulk-attachement-add.php:664
+msgid "Specific Product, Category, Tags, Attributes 🔒"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:247
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:270
+#: admin/partials/wcpoa-product-attachment-settings.php:262
+msgid "Specific Time"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:276
+#: admin/partials/wcpoa-bulk-attachement-add.php:564
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:299
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:697
+msgid "Status"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:86
+msgid "Suggest"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:83
+#: includes/class-woocommerce-product-attachment.php:312
+msgid "Support"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-quick-info.php:38
+msgid "Support Forum"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:294
+msgid "support ticket"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:133
+msgid "There is an error with the security check."
+msgstr ""
+
+#: admin/partials/wcpoa-admin-order-attachments.php:126
+#: public/partials/wcpoa-get-order-attachments.php:364
+#: public/partials/wcpoa-get-order-attachments.php:555
+msgid "This Attachment Expired"
+msgstr ""
+
+#: admin/partials/wcpoa-admin-order-attachments.php:232
+#: admin/partials/wcpoa-admin-order-attachments.php:397
+#: admin/partials/wcpoa-admin-order-attachments.php:629
+#: public/class-woocommerce-product-attachment-public.php:596
+#: public/class-woocommerce-product-attachment-public.php:1159
+#: public/partials/wcpoa-get-order-attachments.php:835
+msgid "This Attachment Expired."
+msgstr ""
+
+#: admin/partials/wcpoa-admin-order-attachments.php:125
+#: admin/partials/wcpoa-admin-order-attachments.php:134
+#: admin/partials/wcpoa-admin-order-attachments.php:234
+#: admin/partials/wcpoa-admin-order-attachments.php:242
+#: admin/partials/wcpoa-admin-order-attachments.php:405
+#: admin/partials/wcpoa-admin-order-attachments.php:407
+#: admin/partials/wcpoa-admin-order-attachments.php:637
+#: admin/partials/wcpoa-admin-order-attachments.php:639
+#: public/class-woocommerce-product-attachment-public.php:597
+#: public/class-woocommerce-product-attachment-public.php:1158
+#: public/partials/wcpoa-get-order-attachments.php:363
+#: public/partials/wcpoa-get-order-attachments.php:369
+#: public/partials/wcpoa-get-order-attachments.php:554
+#: public/partials/wcpoa-get-order-attachments.php:560
+#: public/partials/wcpoa-get-order-attachments.php:836
+#: public/partials/wcpoa-get-order-attachments.php:844
+msgid "This Attachment Expiry Date Is : "
+msgstr ""
+
+#: admin/partials/wcpoa-admin-order-attachments.php:127
+msgid "This Attachment Is Never Expire"
+msgstr ""
+
+#: admin/partials/wcpoa-admin-order-attachments.php:233
+msgid "This Attachment Is Never Expire."
+msgstr ""
+
+#: admin/partials/wcpoa-admin-order-attachments.php:398
+#: admin/partials/wcpoa-admin-order-attachments.php:630
+msgid "This Attachment Never Expires."
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:491
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:608
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:996
+#: admin/partials/wcpoa-product-attachment-settings.php:661
+#: admin/partials/wcpoa-product-attachment-settings.php:1082
+msgid "Time Period"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:617
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:1005
+#: admin/partials/wcpoa-product-attachment-settings.php:673
+#: admin/partials/wcpoa-product-attachment-settings.php:1094
+msgid "Time Period Type"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-quick-info.php:29
+msgid "to view license and terms of use."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:249
+msgid "Trusted by 100,000+ store owners and WP experts!"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:128
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:137
+#: admin/partials/wcpoa-product-attachment-settings.php:135
+msgid "Type"
+msgstr ""
+
+#: admin/partials/dots-upgrade-popup.php:56
+msgid ""
+"Unlock a world of possibilities for your WooCommerce store with our Premium "
+"Product Attachment plugin!"
+msgstr ""
+
+#: admin/partials/dots-upgrade-popup.php:52
+msgid "Unlock Premium Features Today!"
+msgstr ""
+
+#: admin/partials/dots-upgrade-popup.php:48
+msgid "Unlock Premium Features with a %s%% Discount!"
+msgstr ""
+
+#: admin/class-woocommerce-product-attachment-admin.php:146
+msgid "Update Order"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:100
+#: admin/partials/header/plugin-header.php:105
+msgid "Upgrade"
+msgstr ""
+
+#: admin/partials/dots-upgrade-popup.php:41
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:169
+msgid "Upgrade to Unlock Premium Features"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:316
+#: admin/partials/wcpoa-bulk-attachement-add.php:602
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:340
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:735
+#: admin/partials/wcpoa-product-attachment-settings.php:376
+#: admin/partials/wcpoa-product-attachment-settings.php:834
+msgid "Upload Attachment File"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:795
+msgid "Upload Attachment File Icon"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:778
+#: admin/partials/wcpoa-plugin-settings-page.php:874
+#: admin/partials/wcpoa-plugin-settings-page.php:897
+msgid "Upload Icon"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:112
+msgid ""
+"Upload your brand logo as a custom icon to add a professional touch to all "
+"attachments."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:111
+msgid ""
+"Use a shopping bag icon for product manuals to indicate downloadable "
+"documents."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:116
+msgid "User Attachments"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:251
+msgid "User Role Based Display Attachment"
+msgstr ""
+
+#: admin/partials/wcpoa-product-attachment-settings.php:533
+#: admin/partials/wcpoa-product-attachment-settings.php:968
+msgid "Variants"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:275
+msgid "Verified Customer"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:91
+#: public/class-woocommerce-product-attachment-public.php:260
+msgid "Video Attachments"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:1046
+msgid "Video Attachments settings"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-settings-page.php:921
+#: public/class-woocommerce-product-attachment-public.php:1979
+#: public/class-woocommerce-product-attachment-public.php:2118
+#: public/class-woocommerce-product-attachment-public.php:2136
+#: public/class-woocommerce-product-attachment-public.php:2155
+msgid "View"
+msgstr ""
+
+#: admin/partials/wcpoa-product-attachment-settings.php:1129
+msgid "View Documentation"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:131
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:140
+msgid "Visibility"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:314
+msgid "We have a 14-day money-back guarantee."
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:25
+msgid "Welcome! 🤗"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:303
+msgid "What payment methods do you accept?"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:311
+msgid "What’s your refund policy?"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:96
+msgid ""
+"With this feature, all YouTube videos will open in new tabs, ensuring a "
+"seamless browsing experience for your customers."
+msgstr ""
+
+#: woocommerce-product-attachment.php:269
+msgid "WooCommerce"
+msgstr ""
+
+#: admin/class-woocommerce-product-attachment-admin.php:413
+#: woocommerce-product-attachment.php:268
+msgid "WooCommerce Product Attachment"
+msgstr ""
+
+#: admin/class-woocommerce-product-attachment-admin.php:835
+msgid "WooCommerce Product Bulk Attachments"
+msgstr ""
+
+#: admin/partials/wcpoa-plugin-quick-info.php:17
+msgid "WordPress Plugin"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:83
+msgid "Would you mind telling how did you hear about us?"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:92
+msgid "WP Mayor"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:90
+msgid "WPBeginner"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:94
+msgid "WPExplorer"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:89
+msgid "WPLift"
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:368
+#: admin/partials/wcpoa-bulk-attachement-add.php:413
+#: admin/partials/wcpoa-bulk-attachement-add.php:650
+#: admin/partials/wcpoa-bulk-attachement-add.php:694
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:404
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:530
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:795
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:918
+#: admin/partials/wcpoa-plugin-settings-page.php:345
+#: admin/partials/wcpoa-plugin-settings-page.php:424
+#: admin/partials/wcpoa-plugin-settings-page.php:503
+#: admin/partials/wcpoa-plugin-settings-page.php:754
+#: admin/partials/wcpoa-plugin-settings-page.php:971
+#: admin/partials/wcpoa-plugin-settings-page.php:994
+#: admin/partials/wcpoa-plugin-settings-page.php:1019
+#: admin/partials/wcpoa-plugin-settings-page.php:1054
+#: admin/partials/wcpoa-product-attachment-settings.php:249
+#: admin/partials/wcpoa-product-attachment-settings.php:476
+#: admin/partials/wcpoa-product-attachment-settings.php:494
+#: admin/partials/wcpoa-product-attachment-settings.php:517
+#: admin/partials/wcpoa-product-attachment-settings.php:913
+#: admin/partials/wcpoa-product-attachment-settings.php:931
+#: admin/partials/wcpoa-product-attachment-settings.php:951
+msgid "Yes"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:292
+msgid ""
+"Yes! You can read our %s or submit a %s. We are very responsive and strive "
+"to do our best to help you."
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:43
+#: admin/partials/dots-plugin-setup-wizard.php:51
+msgid "Yes, count me in!"
+msgstr ""
+
+#: admin/partials/dots-plugin-setup-wizard.php:78
+msgid "You are all set, almost!"
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:258
+msgid ""
+"You are fully protected by our 100% Satisfaction Guarantee. If over the next "
+"14 days you are unhappy with our plugin or have an issue that we are unable "
+"to resolve, we'll happily consider offering a 100% refund of your money."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:83
+msgid ""
+"You can add references such as PDF files, YouTube videos, and other external "
+"content to provide additional information to your customers."
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:487
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:877
+msgid ""
+"You can assign a scheduling rule to selected items/categories or to all "
+"excluding the selected ones."
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:385
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:421
+msgid ""
+"You can either assign this attachment to all products or assign it to "
+"specific products, categories, tags, or attributes as required."
+msgstr ""
+
+#: admin/partials/dots-upgrade-dashboard.php:306
+msgid ""
+"You can pay with your credit card using Stripe checkout. Or your PayPal "
+"account."
+msgstr ""
+
+#: admin/partials/wcpoa-bulk-attachement-add.php:296
+#: admin/partials/wcpoa-bulk-attachement-add.php:583
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:319
+#: admin/partials/wcpoa-bulk-attachement-add__premium_only.php:716
+#: admin/partials/wcpoa-product-attachment-settings.php:307
+#: admin/partials/wcpoa-product-attachment-settings.php:784
+msgid ""
+"You can type a short description of the attachment file. So customers will "
+"get details about the attachment file."
+msgstr ""
